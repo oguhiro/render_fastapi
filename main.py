@@ -26,6 +26,9 @@ def index():
         </head>
         <body>
             <h1>Look ma! HTML!</h1>
+            <p>自己紹介</p>
+            <p>好きな食べ物はハヤシライスです</p>
+            <p>趣味はダンスです</p>
         </body>
     </html>
     """
