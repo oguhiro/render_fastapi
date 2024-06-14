@@ -32,7 +32,7 @@ def omikuji():
         "大凶"
     ]
 
-    return omikuji_list[random.randrange(10)]
+    return random.choice(omikuji_list)
 
     @app.get("/index")
 def index():
